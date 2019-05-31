@@ -13,16 +13,14 @@ function App() {
       </header>
       <section className='App-title'>
         <Titles title={'Skills'}/>
-      </section>
-      <section className='App-skills'>
+      </div>
+      <div className='App-skills'>
         <SkillsCards />
-      </section>
-      <section className='App-title'>
+      </div>
+      <div className='App-title'>
         <Titles title={'Portfolio'}/>
-      </section>
-      <section className='App-portfolio'>
-        <PortfolioCards />
-      </section>
+      </div>
+      
     </div>
   )
 }
