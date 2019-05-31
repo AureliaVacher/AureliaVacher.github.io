@@ -3,14 +3,6 @@ import React, { Component } from 'react'
 import '../../styles/App.scss'
 
 class SkillsCards extends Component {
-    constructor(props) {
-        super(props) 
-        
-        this.state = {
-        
-        }
-    }
-
     render() {
         return (
             <div className='skillsCards' >

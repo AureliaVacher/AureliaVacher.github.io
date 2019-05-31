@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../ressources/logo/logo.svg'
 import '../styles/App.scss'
 import Banner from './PageElements/Banner'
 import PortfolioCards from './PageElements/PortfolioCards'
@@ -12,18 +11,18 @@ function App() {
       <header className="App-header">
         <Banner />
       </header>
-      <div className='App-title'>
+      <section className='App-title'>
         <Titles title={'Skills'}/>
-      </div>
-      <div className='App-skills'>
+      </section>
+      <section className='App-skills'>
         <SkillsCards />
-      </div>
-      <div className='App-title'>
+      </section>
+      <section className='App-title'>
         <Titles title={'Portfolio'}/>
-      </div>
-      <div className='App-portfolio'>
+      </section>
+      <section className='App-portfolio'>
         <PortfolioCards />
-      </div>
+      </section>
     </div>
   )
 }
