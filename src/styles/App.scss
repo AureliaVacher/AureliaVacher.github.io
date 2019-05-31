@@ -11,7 +11,6 @@ html {
   .App-header{
     height: 60%;
     .banner{
-      background-color: pink;
       min-height: 100%; 
       background-image: url("../ressources/img/georgie-cobbs-459520-unsplash.jpg");
       //Photo by Georgie Cobbs on Unsplash
@@ -63,6 +62,20 @@ html {
       font-size: 32px;
       font-weight: 500;
       color: white;
+    }
+  }
+  .App-skills{
+    .skillsCards{
+      .skillsCardsContent{
+
+      }
+    }
+  }
+  .App-portfolio{
+    .portfolioCards{
+      .portfolioCardsContent{
+        
+      }
     }
   }
 }
