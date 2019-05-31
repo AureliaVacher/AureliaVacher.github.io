@@ -9,17 +9,19 @@ import Titles from './PageElements/Titles'
 function App() {
   return (
     <div className='App'>
-      
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <Banner />
       </header>
       <div className='App-title'>
         <Titles title={'Skills'}/>
       </div>
+      <div className='App-skills'>
+        <SkillsCards />
+      </div>
       <div className='App-title'>
         <Titles title={'Portfolio'}/>
       </div>
+      
     </div>
   )
 }
