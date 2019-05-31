@@ -1,8 +1,12 @@
 import React, { Component } from 'react'
+import propTypes from 'prop-types'
 //styles
 import '../../styles/App.scss'
 
-class Banner extends Component {
+class Titles extends Component {
+    static propTypes = {
+        title : propTypes.string
+    }   
     constructor(props) {
         super(props) 
         
@@ -12,13 +16,12 @@ class Banner extends Component {
     }
 
     render() {
-        
         return (
-            <div className='banner' >
-                plop
+            <div className='title' >
+               {this.props.title}
             </div>
         )
     }
 }
 
-export default Banner
+export default Titles
