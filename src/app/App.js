@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <Banner />
       </header>
-      <section className='App-title'>
+      <div className='App-title'>
         <Titles title={'Skills'}/>
       </div>
       <div className='App-skills'>
