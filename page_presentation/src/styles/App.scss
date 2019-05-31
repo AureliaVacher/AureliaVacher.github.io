@@ -6,7 +6,13 @@ html {
 #root {
   height: 100%;
 }
-.banner{
-  background-color: pink;
-  max-height: 50%;
+.App{
+  .App-header{
+    .banner{
+      background-color: pink;
+      max-height: 50%; 
+    }
+  }
 }
+
+
