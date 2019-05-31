@@ -14,6 +14,12 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <Banner />
       </header>
+      <div className='App-title'>
+        <Titles title={'Skills'}/>
+      </div>
+      <div className='App-title'>
+        <Titles title={'Portfolio'}/>
+      </div>
     </div>
   )
 }

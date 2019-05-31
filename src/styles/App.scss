@@ -1,0 +1,70 @@
+body,
+html {
+  height: 100%;
+  margin: 0 auto;
+}
+#root {
+  height: 100%;
+}
+.App{
+  height: 100%;
+  .App-header{
+    height: 60%;
+    .banner{
+      background-color: pink;
+      min-height: 100%; 
+      background-image: url("../ressources/img/georgie-cobbs-459520-unsplash.jpg");
+      //Photo by Georgie Cobbs on Unsplash
+      background-position: center;
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      .bannerContent{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        height: 100%;
+        .name{
+          
+        }
+        .function{
+          font-size: 20px;
+          font-weight: 300;
+        }
+        .LinkedIn{
+          height: 50px;
+        }
+      }
+    }
+  }
+  .App-title{
+    min-height: 10%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color:#1365a7;
+    box-shadow: 0 5px 10px #f8f8f8;
+    .title{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      font-size: 32px;
+      font-weight: 500;
+      color: white;
+    }
+  }
+}
+
+
