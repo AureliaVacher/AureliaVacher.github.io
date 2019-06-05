@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6386eb14.chunk.css",
+    "main.css": "/static/css/main.d3b12778.chunk.css",
     "main.js": "/static/js/main.9370ed4a.chunk.js",
     "main.js.map": "/static/js/main.9370ed4a.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.7ffbc2b6.chunk.js": "/static/js/2.7ffbc2b6.chunk.js",
     "static/js/2.7ffbc2b6.chunk.js.map": "/static/js/2.7ffbc2b6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.61d832e6f0ce6b00712bd6eac90a9abb.js": "/precache-manifest.61d832e6f0ce6b00712bd6eac90a9abb.js",
+    "precache-manifest.e7c8e059d2c4f8b68507d7d59df5c971.js": "/precache-manifest.e7c8e059d2c4f8b68507d7d59df5c971.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6386eb14.chunk.css.map": "/static/css/main.6386eb14.chunk.css.map",
+    "static/css/main.d3b12778.chunk.css.map": "/static/css/main.d3b12778.chunk.css.map",
     "static/media/Linkedin_circle.svg_.png": "/static/media/Linkedin_circle.svg_.44a7ed58.png",
     "static/media/coding.svg": "/static/media/coding.8996b2cb.svg",
     "static/media/education (1).svg": "/static/media/education (1).2618b0bc.svg",
