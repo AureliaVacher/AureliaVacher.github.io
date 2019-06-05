@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfb11d9d6fbc3c0f44a07f141c126d0a",
+    "revision": "a04d918dce7c835d7196b58d3ef1cfff",
     "url": "/index.html"
   },
   {
-    "revision": "ec9426f3eae555f4d6da",
-    "url": "/static/css/main.4c87e954.chunk.css"
+    "revision": "33662e535b0d0d412c9d",
+    "url": "/static/css/main.6386eb14.chunk.css"
   },
   {
     "revision": "5608ba5603e90396ac6b",
     "url": "/static/js/2.7ffbc2b6.chunk.js"
   },
   {
-    "revision": "ec9426f3eae555f4d6da",
+    "revision": "33662e535b0d0d412c9d",
     "url": "/static/js/main.9370ed4a.chunk.js"
   },
   {
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3270fa150ada45d454752c9b44cb0709",
     "url": "/static/media/planneo.3270fa15.png"
+  },
+  {
+    "revision": "255c6c34956603c4d136b778d94e50c8",
+    "url": "/static/media/responsive.255c6c34.png"
   },
   {
     "revision": "d17b0bc9670b93d976e465c99c819ce0",
